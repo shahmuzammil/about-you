@@ -1,0 +1,28 @@
+.kl{
+    background-color: aqua;
+    height: 328px;
+    width: 540px;
+    
+}
+.ft{
+    mask-repeat: no-repeat;
+
+    height: 67px ;
+    min-width: 56px;
+    margin-left: 100px; 
+}
+.bb{
+    height: 10px ;
+    width: 1px; 
+    margin-left: 10px; 
+}
+.bi{
+    height: 1px; 
+    width: 1px; 
+    margin-left: 200px; 
+}
+.us{
+    height: 1px; 
+    width: 1px;
+    margin-left: 300px; 
+}
