@@ -1,28 +1,67 @@
 .kl{
     background-color: aqua;
-    height: 328px;
+    height: 273px;
     width: 540px;
-    
 }
 .ft{
     mask-repeat: no-repeat;
 
-    height: 67px ;
-    min-width: 56px;
-    margin-left: 100px; 
+     height: 67px ;
+    width: 56px; 
+    margin-left: 20px;
 }
 .bb{
     height: 10px ;
     width: 1px; 
-    margin-left: 10px; 
+    margin-left:193px; 
+    margin-top: -63px;
 }
 .bi{
     height: 1px; 
     width: 1px; 
-    margin-left: 200px; 
+    margin-left: 397px; 
 }
 .us{
-    height: 1px; 
-    width: 1px;
-    margin-left: 300px; 
+   margin-top:125px;
+    margin-left: 195px; 
+}
+.para{
+    position: absolute;
+    border: 0px solid brown; 
+    top: 151px;
+    left: 571px;
+    right: 15px;
+}
+.html{
+    position: absolute;
+    top: 500px;
+}
+
+.css{
+    position: absolute;
+    top: 500px;
+    left: 165px;
+}
+.java{
+    position: absolute;
+    top: 500px;
+    left: 300px;
+}
+.tag{
+    position: absolute;
+    top: 650px;
+    left: 200px;
+}
+.js{
+    position: absolute;
+}
+.git{
+    position: fixed;
+    top: 400px;
+    left: 800px;
+}
+.fb{
+    position: fixed;
+    top: 300px;
+    left: 800px;
 }
