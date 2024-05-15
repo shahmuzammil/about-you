@@ -57,15 +57,16 @@
 }
 .git{
     position: fixed;
-    top: 400px;
-    left: 800px;
+    top: 500px;
+    left: 950px;
 }
 .fb{
     position: fixed;
-    top: 300px;
-    left: 800px;
+    top: 430px;
+    left: 930px;
 }
 .wa{
+    position: fixed;
     top: 600px;
-    left: 820px;
+    left: 920px;
 }
